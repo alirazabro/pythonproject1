@@ -21,6 +21,7 @@ traingle_area = area_traingle(b, h)
 #=======Output=======
 print("Area of cirlce is:",circle_area)
 print("Area of square is:",square_area)
-print("Area of traingle:",traingle_area)
+print("Area of traingle is:",traingle_area)
+
 
 
